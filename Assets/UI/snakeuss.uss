@@ -1,0 +1,3 @@
+.label {
+    -unity-font-style: bold;
+}

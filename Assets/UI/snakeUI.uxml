@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/snakeuss.uss?fileID=7433441132597879392&amp;guid=437598593330f364892298b170094a1e&amp;type=3#snakeuss" />
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:VisualElement style="flex-grow: 1; align-self: flex-start; width: 169px;">
+            <ui:Label tabindex="-1" text="Score: 0" parse-escape-sequences="true" display-tooltip-when-elided="true" name="scoreLabel" class="label" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
